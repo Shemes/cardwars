@@ -3517,4 +3517,13 @@
   "atk": "",
   "def": "",
   "ability": ""
+}, {
+  "name": "Family Gathering",
+  "description": "",
+  "card_type": "Spell",
+  "landscape": "Rainbow",
+  "cost": "",
+  "atk": "",
+  "def": "",
+  "ability": ""
 }]
